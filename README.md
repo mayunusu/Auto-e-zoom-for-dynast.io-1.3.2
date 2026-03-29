@@ -1,4 +1,7 @@
 # Auto-e-zoom-for-dynast.io-1.3.2
 Auto e, zoom for dynast.io 1.3.2( very simple )
-made with Cheat engine
-<img width="349" height="266" alt="image" src="https://github.com/user-attachments/assets/08497ddb-5f8c-4fcf-bbbc-b6633f23dc83" />
+Install Cheat engine before use this
+
+Open game before open this hack, or hack won't run well
+<img width="345" height="271" alt="image" src="https://github.com/user-attachments/assets/3c5f00f8-4ce8-4d35-a436-36335d975035" />
+
